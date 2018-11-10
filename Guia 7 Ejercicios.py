@@ -3,7 +3,7 @@ def Ejercicio1():#esto es un comentario para probar el git
     numero = int(input())
     print(numero*2)
     
-def Ejercicio2():
+def Ejercicio2():#otro comentario
     print("Ingresar edad:")
     edad = int(input())
     print(edad+23)
