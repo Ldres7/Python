@@ -1,4 +1,4 @@
-def Ejercicio1():
+def Ejercicio1():#esto es un comentario para probar el git
     print("Ingresar numero:")
     numero = int(input())
     print(numero*2)
