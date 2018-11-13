@@ -1,0 +1,6 @@
+git init // inicia base de datos en repo 
+git status // sirve para checkear el estado de tu repo
+git pull // te baja los ultimos cambios que hiciste en el repo de la nube
+git push // para subir los cambios a la nube
+git commit -am "comentario"// para generar el cambio en la base de datos local, siempre antes de git push usamos este comando
+
